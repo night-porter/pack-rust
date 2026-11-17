@@ -1,6 +1,6 @@
 name = "rust"
 description = "Rust review: clippy, rustfmt, tests, unsafe, error handling, MSRV and Cargo.lock"
-version = "0.1.0"
+version = "0.1.1"
 
 [[steps]]
 name = "standards"

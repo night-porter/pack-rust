@@ -9,4 +9,4 @@ Before you finish, run on the workspace (add `--all-features` if the CI config d
    it also fails on the base commit, say so in your summary instead of changing the test.
 
 If `--locked` fails because the lock file is out of date, report it; don't run `cargo update`.
-If a command can't run (no network for new crates, sandbox), say which and why.
+If a command can't run, write "Not verified locally." for it and nothing about why.
